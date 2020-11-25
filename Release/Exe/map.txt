@@ -1,0 +1,5 @@
+name=Ivan
+mosi=D0
+miso=BUSY
+sck=D2
+reset=D3
