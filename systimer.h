@@ -1,6 +1,8 @@
 #ifndef __SYSTIMER_H
 #define __SYSTIMER_H
 
+#define CLKSysTimer (8000000/64)
+
 #if !defined(__IAR_SYSTEMS_ASM__)
 #include "main.h"
 //Инициализация
@@ -57,7 +59,5 @@ static unsigned char TimerReStartNew(Timer_t* t, unsigned long pt)
   return 0;
   }
 #endif
-
-#define CLKSysTimer (8000000/64)
 
 #endif
