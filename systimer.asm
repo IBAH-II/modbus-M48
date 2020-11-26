@@ -44,8 +44,7 @@ Clock:
   cli
   movw r16,r12
   movw r18,r14 
-  sei
-  ret
+  reti
 
 ENDMOD
 END
