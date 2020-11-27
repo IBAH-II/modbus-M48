@@ -3,7 +3,6 @@
 
 Timer_t t1;
 
-
 void main(void)
   {
   DDRC_Bit4=1;
@@ -11,13 +10,11 @@ void main(void)
   DDRC_Bit2=1;
   DDRC_Bit1=1;
   DDRC_Bit0=1;
-   
-  StartTimer(&t1,500);
-  
+    
   InitSysClock();
   UartInit();
   ModBusIni();
-  
+  StartTimer(&t1,500);
   while(!0)
     {
     //ModBusASCII();

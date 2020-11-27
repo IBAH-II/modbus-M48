@@ -1,3 +1,4 @@
+#define __UART_ASM
 #include <iom48.h>
 #include "uart.h"
 MODULE __uartrxtx

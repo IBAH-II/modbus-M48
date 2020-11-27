@@ -1,3 +1,4 @@
+#define __SYSTIMER_ASM
 #include <iom48.h>
 #include "systimer.h"
 

@@ -21,24 +21,6 @@
       </inputs>
     </file>
     <file>
-      <name>$PROJ_DIR$\main.c</name>
-      <outputs>
-        <name>$PROJ_DIR$\Release\Obj\main.r90</name>
-        <name>$PROJ_DIR$\Release\List\main.lst</name>
-      </outputs>
-      <inputs>
-        <name>$PROJ_DIR$\main.h</name>
-        <name>$TOOLKIT_DIR$\INC\ina90.h</name>
-        <name>$TOOLKIT_DIR$\INC\inavr.h</name>
-        <name>$TOOLKIT_DIR$\INC\comp_A90.h</name>
-        <name>$TOOLKIT_DIR$\INC\iom48.h</name>
-        <name>$TOOLKIT_DIR$\INC\iomacro.h</name>
-        <name>$PROJ_DIR$\systimer.h</name>
-        <name>$PROJ_DIR$\uart.h</name>
-        <name>$PROJ_DIR$\modbus.h</name>
-      </inputs>
-    </file>
-    <file>
       <name>$PROJ_DIR$\uart.asm</name>
       <outputs>
         <name>$PROJ_DIR$\Release\Obj\uart.r90</name>
@@ -96,6 +78,24 @@
         <name>$TOOLKIT_DIR$\INC\iomacro.h</name>
         <name>$PROJ_DIR$\systimer.h</name>
         <name>$PROJ_DIR$\uart.h</name>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <name>$PROJ_DIR$\Release\Obj\main.r90</name>
+        <name>$PROJ_DIR$\Release\List\main.lst</name>
+      </outputs>
+      <inputs>
+        <name>$PROJ_DIR$\main.h</name>
+        <name>$TOOLKIT_DIR$\INC\ina90.h</name>
+        <name>$TOOLKIT_DIR$\INC\inavr.h</name>
+        <name>$TOOLKIT_DIR$\INC\comp_A90.h</name>
+        <name>$TOOLKIT_DIR$\INC\iom48.h</name>
+        <name>$TOOLKIT_DIR$\INC\iomacro.h</name>
+        <name>$PROJ_DIR$\systimer.h</name>
+        <name>$PROJ_DIR$\uart.h</name>
+        <name>$PROJ_DIR$\modbus.h</name>
       </inputs>
     </file>
   </configuration>

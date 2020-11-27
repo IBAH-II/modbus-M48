@@ -1,9 +1,12 @@
 #ifndef __SYSTIMER_H
 #define __SYSTIMER_H
 
+#ifdef __SYSTIMER_ASM
+
 #define CLKSysTimer (8000000/64)
 
-#if !defined(__IAR_SYSTEMS_ASM__)
+#else
+
 #include "main.h"
 //Инициализация
 void InitSysClock(void);

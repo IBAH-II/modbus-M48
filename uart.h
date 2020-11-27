@@ -1,7 +1,7 @@
 #ifndef __UART_H
 #define __UART_H
 
-#if defined(__IAR_SYSTEMS_ASM__)
+#ifdef __UART_ASM
 
 #define CLK_Uart (8000000)
 #define UartSpeed (19200)
@@ -12,11 +12,11 @@
 
 #include "main.h"
 void UartInit(void);
-unsigned char GetUart(void);
-unsigned char InkeyUart(void);
 unsigned short Inkey16Uart(void);
 void PutUart(unsigned char a);
 
+unsigned char GetUart(void);
+unsigned char InkeyUart(void);
 void putstrf(unsigned char __flash* a);
 void puthex8(unsigned char a);
 void puthex16(unsigned short a);
