@@ -27,6 +27,7 @@ void Prg2ModBusOutReg(void)
   ModBusOutReg[0]=Seconds;
   ModBusOutReg[1]=Minutes;
   ModBusOutReg[2]=Hours; 
+  
   return;
   }
 
@@ -35,6 +36,10 @@ void Prg2ModBusInReg(void)
   ModBusInReg[0]=Seconds;
   ModBusInReg[1]=Minutes;
   ModBusInReg[2]=Hours;  
+  ModBusInReg[3]=tcurent;
+  ModBusInReg[4]=tmax;
+  ModBusInReg[5]=tmin;
+  ModBusInReg[6]=tavg;
   return;
   }
 

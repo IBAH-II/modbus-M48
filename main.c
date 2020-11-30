@@ -2,7 +2,8 @@
 #include "main.h"
 
 Timer_t t1;
-
+unsigned long avg32;
+#define alfa (16)
 void main(void)
   {
   DDRC_Bit4=1;
@@ -15,10 +16,23 @@ void main(void)
   UartInit();
   ModBusIni();
   StartTimer(&t1,500);
+  
+  TCCR1A=0;
+  TCCR1B=1;
+  
+  
   while(!0)
     {
     //ModBusASCII();
+    TCNT1=0;
     ModBusRTU();
+    
+    tcurent=TCNT1;
+    if(tcurent<tmin)tmin=tcurent;
+    if(tcurent>tmax)tmax=tcurent;
+    avg32=avg32-(avg32>>alfa)+tcurent;
+    tavg=avg32>>alfa;
+    
     if(TimerReStart(&t1))
       {
       PoluSeconds++;
