@@ -1,2 +1,4 @@
-Release/List
-Release/Obj
+modbus-ATMega48/Release/List
+modbus-ATMega48/Release/Obj
+modbus-STM32L0/EWARM/Stend/List
+modbus-STM32L0/EWARM/Stend/Obj
