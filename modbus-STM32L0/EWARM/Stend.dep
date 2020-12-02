@@ -2,124 +2,13 @@
 
 <project>
   <fileVersion>2</fileVersion>
-  <fileChecksum>1411898919</fileChecksum>
+  <fileChecksum>2046989726</fileChecksum>
   <configuration>
     <name>Stend</name>
     <outputs>
       <file>$PROJ_DIR$\startup_stm32l052xx.s</file>
       <file>$PROJ_DIR$\..\Inc\main.h</file>
       <file>$PROJ_DIR$\..\Inc\ioport.h</file>
-      <file>$PROJ_DIR$\..\Src\ioport.c</file>
-      <file>$PROJ_DIR$\..\Src\SaveRestore.c</file>
-      <file>$PROJ_DIR$\..\Src\tic5234ioport.c</file>
-      <file>$PROJ_DIR$\..\Src\uart1.c</file>
-      <file>$PROJ_DIR$\..\Src\uart2.c</file>
-      <file>$PROJ_DIR$\..\Drivers\STM32L0xx_HAL_Driver\Src\stm32l0xx_ll_adc.c</file>
-      <file>$PROJ_DIR$\Stend\List\uart0.lst</file>
-      <file>$PROJ_DIR$\Stend\Obj\ObrRjRezka.pbi</file>
-      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_rcc.__cstat.et</file>
-      <file>$PROJ_DIR$\..\Inc\wait_us.h</file>
-      <file>$PROJ_DIR$\..\Inc\zsg.h</file>
-      <file>$PROJ_DIR$\Stend\Obj\ReadDatchik.__cstat.et</file>
-      <file>$PROJ_DIR$\Stend\Obj\wait.o</file>
-      <file>$PROJ_DIR$\..\Drivers\STM32L0xx_HAL_Driver\Src\stm32l0xx_ll_exti.c</file>
-      <file>$PROJ_DIR$\..\Drivers\STM32L0xx_HAL_Driver\Src\stm32l0xx_ll_usart.c</file>
-      <file>$PROJ_DIR$\Stend\Obj\shetchik.o</file>
-      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_dma.pbi</file>
-      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
-      <file>$PROJ_DIR$\..\Src\StrAvtomat.c</file>
-      <file>$PROJ_DIR$\Stend\List\stm32l0xx_ll_lpuart.lst</file>
-      <file>$PROJ_DIR$\Stend\List\stm32l0xx_ll_pwr.lst</file>
-      <file>$PROJ_DIR$\Stend\Obj\system_stm32l0xx.pbi</file>
-      <file>$PROJ_DIR$\Stend\Obj\ModBus2Prg.__cstat.et</file>
-      <file>$PROJ_DIR$\Stend\Obj\uart2.o</file>
-      <file>$PROJ_DIR$\Stend\Obj\WebSite.__cstat.et</file>
-      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_tim.__cstat.et</file>
-      <file>$PROJ_DIR$\Stend\Obj\SostPerif.o</file>
-      <file>$PROJ_DIR$\Stend\Obj\LowPower.pbi</file>
-      <file>$PROJ_DIR$\Stend\Obj\dozator.pbi</file>
-      <file>$PROJ_DIR$\Stend\Obj\ioport.o</file>
-      <file>$PROJ_DIR$\..\Src\ObrRjSmesh.c</file>
-      <file>$PROJ_DIR$\Stend\Obj\main.__cstat.et</file>
-      <file>$PROJ_DIR$\..\Inc\SysConfig.h</file>
-      <file>$PROJ_DIR$\Stend\Obj\Nagr.__cstat.et</file>
-      <file>$PROJ_DIR$\..\Src\ModbusMaster.c</file>
-      <file>$PROJ_DIR$\Stend\Obj\ObrRjSmesh.o</file>
-      <file>$PROJ_DIR$\Stend\Obj\LowPower.o</file>
-      <file>$PROJ_DIR$\Stend\Obj\ReversKontakt.pbi</file>
-      <file>$PROJ_DIR$\Stend\Obj\shetchik.pbi</file>
-      <file>$PROJ_DIR$\Stend\Obj\system_stm32l0xx.__cstat.et</file>
-      <file>$PROJ_DIR$\Stend\Obj\shetchik.__cstat.et</file>
-      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
-      <file>$PROJ_DIR$\Stend\Obj\ObrRjVygrSherst.o</file>
-      <file>$PROJ_DIR$\Stend\List\stm32l0xx_ll_adc.lst</file>
-      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_pwr.o</file>
-      <file>$PROJ_DIR$\..\Drivers\CMSIS\Device\ST\STM32L0xx\Include\stm32l052xx.h</file>
-      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_utils.__cstat.et</file>
-      <file>$PROJ_DIR$\Stend\List\zsg.lst</file>
-      <file>$PROJ_DIR$\Stend\List\stm32l0xx_ll_dma.lst</file>
-      <file>$PROJ_DIR$\Stend\Obj\main.pbi</file>
-      <file>$PROJ_DIR$\..\Inc\dozator.h</file>
-      <file>$PROJ_DIR$\Stend\Obj\modbus.o</file>
-      <file>$PROJ_DIR$\Stend\Obj\SaveRestore.o</file>
-      <file>$PROJ_DIR$\Stend\Obj\dozator.__cstat.et</file>
-      <file>$PROJ_DIR$\..\Src\ObrRjVygrSherst.c</file>
-      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_it.pbi</file>
-      <file>$PROJ_DIR$\Stend\Obj\ObrRjVygrSherst.pbi</file>
-      <file>$PROJ_DIR$\Stend\Obj\RjSelect.o</file>
-      <file>$PROJ_DIR$\..\Src\ToBase.c</file>
-      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_pwr.pbi</file>
-      <file>$PROJ_DIR$\Stend\List\ObrRjSmesh.lst</file>
-      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_adc.pbi</file>
-      <file>$PROJ_DIR$\Stend\Obj\wait.__cstat.et</file>
-      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_it.__cstat.et</file>
-      <file>$PROJ_DIR$\Stend\Obj\Stend.pbd</file>
-      <file>$TOOLKIT_DIR$\lib\m6M_tl.a</file>
-      <file>$PROJ_DIR$\Stend\List\LowPower.lst</file>
-      <file>$PROJ_DIR$\Stend\Obj\AnalogIn.pbi</file>
-      <file>$PROJ_DIR$\..\Src\WebSite.c</file>
-      <file>$PROJ_DIR$\Stend\Exe\Stend.hex</file>
-      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_utils.pbi</file>
-      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_exti.pbi</file>
-      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_adc.__cstat.et</file>
-      <file>$PROJ_DIR$\Stend\Obj\Zaslonka.o</file>
-      <file>$PROJ_DIR$\..\Src\dozator.c</file>
-      <file>$PROJ_DIR$\..\Src\ReadDatchik.c</file>
-      <file>$PROJ_DIR$\..\Inc\ObrRjRezka.h</file>
-      <file>$PROJ_DIR$\Stend\Obj\FM25L256.o</file>
-      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
-      <file>$PROJ_DIR$\Stend\Obj\SaveRestore.pbi</file>
-      <file>$PROJ_DIR$\Stend\Obj\ObrRjSmesh.pbi</file>
-      <file>$PROJ_DIR$\..\Inc\favicon_ico.h</file>
-      <file>$PROJ_DIR$\..\Inc\index_htm.h</file>
-      <file>$PROJ_DIR$\Stend\Obj\AnalogIn.__cstat.et</file>
-      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Full.h</file>
-      <file>$PROJ_DIR$\Stend\Obj\ModbusMaster.pbi</file>
-      <file>$PROJ_DIR$\..\Inc\ReversKontakt.h</file>
-      <file>$PROJ_DIR$\..\Src\LowPower.c</file>
-      <file>$PROJ_DIR$\Stend\List\ObrRjVygr.lst</file>
-      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_pwr.__cstat.et</file>
-      <file>$PROJ_DIR$\..\Inc\ReadDatchik.h</file>
-      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_usart.__cstat.et</file>
-      <file>$PROJ_DIR$\..\Src\RjSelect.c</file>
-      <file>$PROJ_DIR$\..\Src\zsg.c</file>
-      <file>$PROJ_DIR$\..\Src\RjmCikl.c</file>
-      <file>$PROJ_DIR$\..\Inc\gif2_gif.h</file>
-      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
-      <file>$PROJ_DIR$\Stend\Obj\uart0.o</file>
-      <file>$PROJ_DIR$\..\Inc\ObrRjVygrSherst.h</file>
-      <file>$PROJ_DIR$\..\Inc\SostPerif.h</file>
-      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_dma.__cstat.et</file>
-      <file>$PROJ_DIR$\Stend\Obj\ObrRjZagr.o</file>
-      <file>$PROJ_DIR$\..\Inc\shd.h</file>
-      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_gpio.pbi</file>
-      <file>$PROJ_DIR$\Stend\List\stm32l0xx_ll_tim.lst</file>
-      <file>$PROJ_DIR$\..\Inc\RjSelect.h</file>
-      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_adc.o</file>
-      <file>$PROJ_DIR$\Stend\List\shetchik.s</file>
-      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
-      <file>$PROJ_DIR$\..\Inc\Nagr.h</file>
-      <file>$PROJ_DIR$\Stend\Obj\ObrRjZagr.pbi</file>
       <file>$PROJ_DIR$\..\Inc\modbus.h</file>
       <file>$PROJ_DIR$\..\Inc\uart0.h</file>
       <file>$PROJ_DIR$\..\Inc\wait.h</file>
@@ -146,7 +35,7 @@
       <file>$PROJ_DIR$\..\Src\uart0.c</file>
       <file>$PROJ_DIR$\..\Src\wait.c</file>
       <file>$PROJ_DIR$\..\Src\system_stm32l0xx.c</file>
-      <file>$PROJ_DIR$\..\Inc\FM25L256.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
       <file>$PROJ_DIR$\..\Drivers\STM32L0xx_HAL_Driver\Src\stm32l0xx_ll_dma.c</file>
       <file>$PROJ_DIR$\..\Drivers\STM32L0xx_HAL_Driver\Src\stm32l0xx_ll_gpio.c</file>
       <file>$PROJ_DIR$\..\Drivers\STM32L0xx_HAL_Driver\Src\stm32l0xx_ll_lpuart.c</file>
@@ -154,8 +43,250 @@
       <file>$PROJ_DIR$\..\Drivers\STM32L0xx_HAL_Driver\Src\stm32l0xx_ll_rcc.c</file>
       <file>$PROJ_DIR$\..\Drivers\STM32L0xx_HAL_Driver\Src\stm32l0xx_ll_tim.c</file>
       <file>$PROJ_DIR$\..\Drivers\STM32L0xx_HAL_Driver\Src\stm32l0xx_ll_utils.c</file>
-      <file>$PROJ_DIR$\..\Inc\AnalogIn.h</file>
+      <file>$PROJ_DIR$\Stend\Obj\uart0.o</file>
+      <file>$PROJ_DIR$\..\Inc\ObrRjVygrSherst.h</file>
+      <file>$PROJ_DIR$\..\Inc\shd.h</file>
+      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_gpio.pbi</file>
+      <file>$PROJ_DIR$\Stend\Obj\ObrRjZagr.o</file>
+      <file>$PROJ_DIR$\Stend\List\stm32l0xx_ll_tim.lst</file>
+      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_dma.__cstat.et</file>
+      <file>$PROJ_DIR$\..\Inc\SostPerif.h</file>
+      <file>$PROJ_DIR$\..\Inc\RjSelect.h</file>
+      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_adc.o</file>
+      <file>$PROJ_DIR$\..\Inc\Zaslonka.h</file>
+      <file>$PROJ_DIR$\Stend\Obj\ToBase.o</file>
+      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_exti.o</file>
+      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_gpio.o</file>
+      <file>$PROJ_DIR$\Stend\Obj\wait_ms.o</file>
+      <file>$PROJ_DIR$\Stend\Obj\Indik7s.pbi</file>
+      <file>$PROJ_DIR$\..\Src\Zaslonka.c</file>
+      <file>$PROJ_DIR$\Stend\List\main.lst</file>
+      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_lpuart.__cstat.et</file>
+      <file>$PROJ_DIR$\Stend\Obj\FM25L256.pbi</file>
+      <file>$PROJ_DIR$\..\Src\wait_ms.c</file>
+      <file>$PROJ_DIR$\Stend\Obj\Nagr.o</file>
+      <file>$PROJ_DIR$\Stend\Obj\LowPower.__cstat.et</file>
+      <file>$PROJ_DIR$\Stend\Obj\ReadDatchik.o</file>
+      <file>$PROJ_DIR$\Stend\Obj\ReversKontakt.__cstat.et</file>
+      <file>$PROJ_DIR$\Stend\Obj\ModBus2Prg.pbi</file>
+      <file>$PROJ_DIR$\Stend\Obj\StrAvtomat.__cstat.et</file>
+      <file>$PROJ_DIR$\..\Inc\WebSite.h</file>
+      <file>$PROJ_DIR$\Stend\Obj\SysConfig.__cstat.et</file>
+      <file>$PROJ_DIR$\Stend\List\ObrRjVygrSherst.lst</file>
+      <file>$PROJ_DIR$\Stend\Obj\FM25L256.__cstat.et</file>
+      <file>$PROJ_DIR$\Stend\Obj\wait_ms.pbi</file>
+      <file>$PROJ_DIR$\..\Src\ObrRjRyhl.c</file>
+      <file>$PROJ_DIR$\Stend\Obj\uart2.__cstat.et</file>
+      <file>$PROJ_DIR$\Stend\List\system_stm32l0xx.lst</file>
+      <file>$PROJ_DIR$\Stend\Obj\uart2.pbi</file>
+      <file>$PROJ_DIR$\Stend\Exe\Stend.out</file>
+      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_tim.pbi</file>
+      <file>$PROJ_DIR$\..\Drivers\CMSIS\Include\core_cmInstr.h</file>
+      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_gpio.__cstat.et</file>
+      <file>$PROJ_DIR$\Stend\Obj\RjSelect.pbi</file>
+      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_rcc.o</file>
+      <file>$PROJ_DIR$\Stend\Obj\IndikModBus.__cstat.et</file>
+      <file>$PROJ_DIR$\Stend\Obj\Indik7s.__cstat.et</file>
+      <file>$PROJ_DIR$\Stend\Obj\modbus.__cstat.et</file>
+      <file>$PROJ_DIR$\Stend\Obj\uart1.__cstat.et</file>
+      <file>$PROJ_DIR$\Stend\Obj\wait_us.o</file>
+      <file>$PROJ_DIR$\Stend\List\dozator.s</file>
+      <file>$PROJ_DIR$\..\Src\shetchik.c</file>
+      <file>$PROJ_DIR$\Stend\Obj\ioport.__cstat.et</file>
+      <file>$PROJ_DIR$\..\Src\wait_us.c</file>
+      <file>$PROJ_DIR$\Stend\Obj\tic5234ioport.__cstat.et</file>
+      <file>$PROJ_DIR$\Stend\Obj\system_stm32l0xx.o</file>
+      <file>$PROJ_DIR$\..\Src\ObrRjZagr.c</file>
+      <file>$PROJ_DIR$\Stend\List\ObrRjRezka.lst</file>
+      <file>$PROJ_DIR$\Stend\Obj\dozator.o</file>
+      <file>$PROJ_DIR$\Stend\List\stm32l0xx_ll_utils.lst</file>
+      <file>$PROJ_DIR$\..\Inc\gif1_gif.h</file>
+      <file>$PROJ_DIR$\Stend\Obj\StrAvtomat.pbi</file>
+      <file>$PROJ_DIR$\Stend\Obj\crc.pbi</file>
+      <file>$PROJ_DIR$\Stend\Obj\WebSite.pbi</file>
+      <file>$PROJ_DIR$\stm32l052xx_flash.icf</file>
+      <file>$PROJ_DIR$\Stend\Obj\SysConfig.pbi</file>
+      <file>$PROJ_DIR$\Stend\Obj\wait.pbi</file>
+      <file>$PROJ_DIR$\Stend\Obj\SostPerif.__cstat.et</file>
+      <file>$PROJ_DIR$\Stend\Obj\ModbusMaster.o</file>
+      <file>$PROJ_DIR$\Stend\Obj\RjmCikl.pbi</file>
+      <file>$PROJ_DIR$\Stend\List\shd.lst</file>
+      <file>$PROJ_DIR$\Stend\Obj\tic5234ioport.o</file>
+      <file>$PROJ_DIR$\Stend\Obj\IndikModBus.pbi</file>
+      <file>$PROJ_DIR$\Stend\Obj\tic5234ioport.pbi</file>
+      <file>$PROJ_DIR$\Stend\Obj\IndikModBus.o</file>
+      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_dma.o</file>
+      <file>$PROJ_DIR$\Stend\Obj\ModbusMaster.__cstat.et</file>
+      <file>$PROJ_DIR$\Stend\List\crc.lst</file>
+      <file>$PROJ_DIR$\Stend\Obj\StrAvtomat.o</file>
+      <file>$PROJ_DIR$\..\Src\ObrRjVygr.c</file>
+      <file>$PROJ_DIR$\Stend\Obj\startup_stm32l052xx.o</file>
+      <file>$PROJ_DIR$\Stend\List\modbus.lst</file>
+      <file>$PROJ_DIR$\Stend\Obj\uart1.o</file>
+      <file>$PROJ_DIR$\Stend\Obj\ObrRjZagr.__cstat.et</file>
+      <file>$PROJ_DIR$\Stend\Obj\zsg.__cstat.et</file>
+      <file>$PROJ_DIR$\..\Drivers\CMSIS\Device\ST\STM32L0xx\Include\system_stm32l0xx.h</file>
+      <file>$PROJ_DIR$\Stend\Obj\WebSite.o</file>
+      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_tim.o</file>
+      <file>$PROJ_DIR$\Stend\List\Zaslonka.lst</file>
+      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_lpuart.o</file>
+      <file>$PROJ_DIR$\Stend\Obj\crc.o</file>
+      <file>$PROJ_DIR$\..\Inc\ObrRjSmesh.h</file>
+      <file>$PROJ_DIR$\Stend\Obj\ReadDatchik.pbi</file>
+      <file>$PROJ_DIR$\Stend\Obj\main.o</file>
+      <file>$PROJ_DIR$\Stend\List\stm32l0xx_it.lst</file>
+      <file>$PROJ_DIR$\Stend\List\ObrRjZagr.lst</file>
+      <file>$PROJ_DIR$\..\Src\SostPerif.c</file>
+      <file>$TOOLKIT_DIR$\lib\rt6M_tl.a</file>
+      <file>$PROJ_DIR$\Stend\List\stm32l0xx_ll_gpio.lst</file>
+      <file>$PROJ_DIR$\Stend\Obj\wait_us.pbi</file>
+      <file>$PROJ_DIR$\Stend\Obj\ObrRjRyhl.o</file>
+      <file>$PROJ_DIR$\Stend\Obj\ObrRjVygr.o</file>
+      <file>$PROJ_DIR$\Stend\Obj\uart0.__cstat.et</file>
+      <file>$PROJ_DIR$\..\Drivers\CMSIS\Device\ST\STM32L0xx\Include\stm32l0xx.h</file>
+      <file>$PROJ_DIR$\..\Inc\shetchik.h</file>
+      <file>$PROJ_DIR$\..\Inc\LowPower.h</file>
+      <file>$PROJ_DIR$\..\Inc\wait_ms.h</file>
+      <file>$PROJ_DIR$\Stend\Obj\zsg.pbi</file>
+      <file>$PROJ_DIR$\Stend\Obj\ObrRjRyhl.pbi</file>
+      <file>$PROJ_DIR$\Stend\List\ModBus2Prg.lst</file>
+      <file>$PROJ_DIR$\Stend\List\stm32l0xx_ll_usart.lst</file>
+      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_lpuart.pbi</file>
+      <file>$PROJ_DIR$\Stend\Obj\ObrRjVygrSherst.__cstat.et</file>
+      <file>$PROJ_DIR$\Stend\List\ObrRjRyhl.lst</file>
+      <file>$PROJ_DIR$\Stend\List\Nagr.lst</file>
+      <file>$PROJ_DIR$\Stend\List\stm32l0xx_ll_rcc.lst</file>
+      <file>$PROJ_DIR$\Stend\Obj\ModBus2Prg.o</file>
+      <file>$PROJ_DIR$\Stend\Obj\Nagr.pbi</file>
+      <file>$PROJ_DIR$\Stend\List\ReadDatchik.lst</file>
+      <file>$PROJ_DIR$\..\Src\ReversKontakt.c</file>
+      <file>$PROJ_DIR$\Stend\Obj\SostPerif.pbi</file>
+      <file>$PROJ_DIR$\..\Inc\crc.h</file>
+      <file>$PROJ_DIR$\..\Src\crc.c</file>
+      <file>$PROJ_DIR$\Stend\Obj\uart1.pbi</file>
+      <file>$PROJ_DIR$\..\Inc\ObrRjVygr.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\Stend\List\wait.lst</file>
+      <file>$PROJ_DIR$\Stend\Obj\ObrRjVygr.pbi</file>
+      <file>$PROJ_DIR$\..\Inc\gif3_gif.h</file>
+      <file>$PROJ_DIR$\Stend\Obj\ObrRjRyhl.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$PROJ_DIR$\Stend\Obj\ObrRjSmesh.__cstat.et</file>
+      <file>$PROJ_DIR$\Stend\Obj\shd.o</file>
+      <file>$PROJ_DIR$\Stend\Obj\wait_us.__cstat.et</file>
+      <file>$PROJ_DIR$\Stend\List\stm32l0xx_ll_exti.lst</file>
+      <file>$PROJ_DIR$\Stend\Obj\ToBase.pbi</file>
+      <file>$PROJ_DIR$\Stend\List\RjmCikl.lst</file>
+      <file>$PROJ_DIR$\Stend\Obj\RjmCikl.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\Stend\Obj\shd.pbi</file>
+      <file>$PROJ_DIR$\..\Inc\StrAvtomat.h</file>
+      <file>$PROJ_DIR$\..\Drivers\CMSIS\Include\core_cmFunc.h</file>
+      <file>$PROJ_DIR$\Stend\List\ToBase.lst</file>
+      <file>$PROJ_DIR$\..\Src\ObrRjRezka.c</file>
+      <file>$PROJ_DIR$\Stend\Obj\wait.o</file>
+      <file>$PROJ_DIR$\Stend\Obj\shetchik.o</file>
+      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_dma.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\..\Src\StrAvtomat.c</file>
+      <file>$PROJ_DIR$\..\Drivers\STM32L0xx_HAL_Driver\Src\stm32l0xx_ll_exti.c</file>
+      <file>$PROJ_DIR$\..\Drivers\STM32L0xx_HAL_Driver\Src\stm32l0xx_ll_usart.c</file>
+      <file>$PROJ_DIR$\Stend\List\stm32l0xx_ll_lpuart.lst</file>
+      <file>$PROJ_DIR$\Stend\List\stm32l0xx_ll_pwr.lst</file>
+      <file>$PROJ_DIR$\Stend\Obj\system_stm32l0xx.pbi</file>
+      <file>$PROJ_DIR$\Stend\Obj\ModBus2Prg.__cstat.et</file>
+      <file>$PROJ_DIR$\Stend\Obj\uart2.o</file>
+      <file>$PROJ_DIR$\Stend\Obj\WebSite.__cstat.et</file>
+      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_tim.__cstat.et</file>
+      <file>$PROJ_DIR$\Stend\Obj\SostPerif.o</file>
+      <file>$PROJ_DIR$\Stend\Obj\LowPower.pbi</file>
+      <file>$PROJ_DIR$\Stend\Obj\dozator.pbi</file>
+      <file>$PROJ_DIR$\Stend\Obj\ioport.o</file>
+      <file>$PROJ_DIR$\..\Src\ObrRjSmesh.c</file>
+      <file>$PROJ_DIR$\Stend\Obj\main.__cstat.et</file>
+      <file>$PROJ_DIR$\..\Inc\SysConfig.h</file>
+      <file>$PROJ_DIR$\Stend\Obj\Nagr.__cstat.et</file>
+      <file>$PROJ_DIR$\..\Src\ModbusMaster.c</file>
+      <file>$PROJ_DIR$\Stend\Obj\ObrRjSmesh.o</file>
+      <file>$PROJ_DIR$\Stend\Obj\LowPower.o</file>
+      <file>$PROJ_DIR$\Stend\Obj\ReversKontakt.pbi</file>
+      <file>$PROJ_DIR$\Stend\Obj\shetchik.pbi</file>
+      <file>$PROJ_DIR$\Stend\Obj\system_stm32l0xx.__cstat.et</file>
+      <file>$PROJ_DIR$\Stend\Obj\shetchik.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\Stend\Obj\ObrRjVygrSherst.o</file>
+      <file>$PROJ_DIR$\Stend\List\stm32l0xx_ll_adc.lst</file>
+      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_pwr.o</file>
+      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_utils.__cstat.et</file>
+      <file>$PROJ_DIR$\Stend\List\zsg.lst</file>
+      <file>$PROJ_DIR$\Stend\List\stm32l0xx_ll_dma.lst</file>
+      <file>$PROJ_DIR$\Stend\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\..\Drivers\CMSIS\Device\ST\STM32L0xx\Include\stm32l052xx.h</file>
+      <file>$PROJ_DIR$\..\Inc\dozator.h</file>
+      <file>$PROJ_DIR$\Stend\Obj\modbus.o</file>
+      <file>$PROJ_DIR$\Stend\Obj\SaveRestore.o</file>
+      <file>$PROJ_DIR$\Stend\Obj\dozator.__cstat.et</file>
+      <file>$PROJ_DIR$\..\Src\ObrRjVygrSherst.c</file>
+      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_it.pbi</file>
+      <file>$PROJ_DIR$\Stend\Obj\ObrRjVygrSherst.pbi</file>
+      <file>$PROJ_DIR$\Stend\Obj\RjSelect.o</file>
+      <file>$PROJ_DIR$\..\Src\ToBase.c</file>
+      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_pwr.pbi</file>
+      <file>$PROJ_DIR$\Stend\List\ObrRjSmesh.lst</file>
+      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_adc.pbi</file>
+      <file>$PROJ_DIR$\Stend\Obj\wait.__cstat.et</file>
+      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_it.__cstat.et</file>
+      <file>$PROJ_DIR$\Stend\Obj\Stend.pbd</file>
+      <file>$TOOLKIT_DIR$\lib\m6M_tl.a</file>
+      <file>$PROJ_DIR$\Stend\List\LowPower.lst</file>
+      <file>$PROJ_DIR$\Stend\Obj\AnalogIn.pbi</file>
+      <file>$PROJ_DIR$\..\Src\WebSite.c</file>
+      <file>$PROJ_DIR$\Stend\Exe\Stend.hex</file>
+      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_utils.pbi</file>
+      <file>$PROJ_DIR$\..\Src\ioport.c</file>
+      <file>$PROJ_DIR$\..\Src\tic5234ioport.c</file>
+      <file>$PROJ_DIR$\..\Src\SaveRestore.c</file>
+      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_rcc.__cstat.et</file>
+      <file>$PROJ_DIR$\Stend\Obj\ObrRjRezka.pbi</file>
+      <file>$PROJ_DIR$\Stend\List\uart0.lst</file>
+      <file>$PROJ_DIR$\..\Drivers\STM32L0xx_HAL_Driver\Src\stm32l0xx_ll_adc.c</file>
+      <file>$PROJ_DIR$\..\Inc\wait_us.h</file>
+      <file>$PROJ_DIR$\..\Src\uart2.c</file>
+      <file>$PROJ_DIR$\..\Src\uart1.c</file>
+      <file>$PROJ_DIR$\..\Inc\zsg.h</file>
+      <file>$PROJ_DIR$\Stend\Obj\ReadDatchik.__cstat.et</file>
+      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_exti.pbi</file>
+      <file>$PROJ_DIR$\Stend\Obj\Zaslonka.o</file>
+      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_adc.__cstat.et</file>
+      <file>$PROJ_DIR$\Stend\Obj\FM25L256.o</file>
+      <file>$PROJ_DIR$\Stend\Obj\SaveRestore.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$PROJ_DIR$\..\Inc\ObrRjRezka.h</file>
+      <file>$PROJ_DIR$\Stend\Obj\ObrRjSmesh.pbi</file>
+      <file>$PROJ_DIR$\..\Src\ReadDatchik.c</file>
+      <file>$PROJ_DIR$\..\Src\dozator.c</file>
+      <file>$PROJ_DIR$\..\Inc\favicon_ico.h</file>
+      <file>$PROJ_DIR$\..\Inc\index_htm.h</file>
+      <file>$PROJ_DIR$\Stend\Obj\AnalogIn.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Full.h</file>
+      <file>$PROJ_DIR$\..\Inc\ReversKontakt.h</file>
+      <file>$PROJ_DIR$\Stend\Obj\ModbusMaster.pbi</file>
+      <file>$PROJ_DIR$\..\Inc\ReadDatchik.h</file>
+      <file>$PROJ_DIR$\..\Src\RjSelect.c</file>
+      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_usart.__cstat.et</file>
+      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_pwr.__cstat.et</file>
+      <file>$PROJ_DIR$\..\Src\zsg.c</file>
+      <file>$PROJ_DIR$\Stend\List\ObrRjVygr.lst</file>
+      <file>$PROJ_DIR$\..\Src\LowPower.c</file>
+      <file>$PROJ_DIR$\..\Src\RjmCikl.c</file>
+      <file>$PROJ_DIR$\..\Inc\gif2_gif.h</file>
+      <file>$PROJ_DIR$\Stend\List\shetchik.s</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\..\Inc\Nagr.h</file>
+      <file>$PROJ_DIR$\Stend\Obj\ObrRjZagr.pbi</file>
+      <file>$PROJ_DIR$\..\Inc\FM25L256.h</file>
       <file>$PROJ_DIR$\..\Inc\frontdetekt.h</file>
+      <file>$PROJ_DIR$\..\Inc\AnalogIn.h</file>
       <file>$PROJ_DIR$\..\Inc\uart2.h</file>
       <file>$PROJ_DIR$\..\Inc\uart1.h</file>
       <file>$PROJ_DIR$\..\Inc\SaveRestore.h</file>
@@ -207,144 +338,13 @@
       <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_it.o</file>
       <file>$PROJ_DIR$\..\Inc\RjmCikl.h</file>
       <file>$PROJ_DIR$\..\Inc\ToBase.h</file>
-      <file>$PROJ_DIR$\..\Inc\Zaslonka.h</file>
-      <file>$PROJ_DIR$\Stend\Obj\ToBase.o</file>
-      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_exti.o</file>
-      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_gpio.o</file>
-      <file>$PROJ_DIR$\Stend\Obj\wait_ms.o</file>
-      <file>$PROJ_DIR$\Stend\Obj\Indik7s.pbi</file>
-      <file>$PROJ_DIR$\..\Src\Zaslonka.c</file>
-      <file>$PROJ_DIR$\Stend\List\main.lst</file>
-      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_lpuart.__cstat.et</file>
-      <file>$PROJ_DIR$\Stend\Obj\FM25L256.pbi</file>
-      <file>$PROJ_DIR$\..\Src\wait_ms.c</file>
-      <file>$PROJ_DIR$\Stend\Obj\Nagr.o</file>
-      <file>$PROJ_DIR$\Stend\Obj\LowPower.__cstat.et</file>
-      <file>$PROJ_DIR$\Stend\Obj\ReadDatchik.o</file>
-      <file>$PROJ_DIR$\Stend\Obj\ReversKontakt.__cstat.et</file>
-      <file>$PROJ_DIR$\Stend\Obj\ModBus2Prg.pbi</file>
-      <file>$PROJ_DIR$\Stend\Obj\StrAvtomat.__cstat.et</file>
-      <file>$PROJ_DIR$\..\Inc\WebSite.h</file>
-      <file>$PROJ_DIR$\Stend\Obj\SysConfig.__cstat.et</file>
-      <file>$PROJ_DIR$\Stend\List\ObrRjVygrSherst.lst</file>
-      <file>$PROJ_DIR$\Stend\Obj\FM25L256.__cstat.et</file>
-      <file>$PROJ_DIR$\Stend\Obj\wait_ms.pbi</file>
-      <file>$PROJ_DIR$\..\Src\ObrRjRyhl.c</file>
-      <file>$PROJ_DIR$\Stend\Obj\uart2.__cstat.et</file>
-      <file>$PROJ_DIR$\Stend\List\system_stm32l0xx.lst</file>
-      <file>$PROJ_DIR$\Stend\Obj\uart2.pbi</file>
-      <file>$PROJ_DIR$\Stend\Exe\Stend.out</file>
-      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_tim.pbi</file>
-      <file>$PROJ_DIR$\..\Drivers\CMSIS\Include\core_cmInstr.h</file>
-      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_gpio.__cstat.et</file>
-      <file>$PROJ_DIR$\Stend\Obj\RjSelect.pbi</file>
-      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_rcc.o</file>
-      <file>$PROJ_DIR$\Stend\Obj\IndikModBus.__cstat.et</file>
-      <file>$PROJ_DIR$\Stend\Obj\Indik7s.__cstat.et</file>
-      <file>$PROJ_DIR$\Stend\Obj\modbus.__cstat.et</file>
-      <file>$PROJ_DIR$\Stend\Obj\uart1.__cstat.et</file>
-      <file>$PROJ_DIR$\Stend\Obj\wait_us.o</file>
-      <file>$PROJ_DIR$\Stend\List\dozator.s</file>
-      <file>$PROJ_DIR$\..\Src\shetchik.c</file>
-      <file>$PROJ_DIR$\Stend\Obj\ioport.__cstat.et</file>
-      <file>$PROJ_DIR$\..\Src\wait_us.c</file>
-      <file>$PROJ_DIR$\Stend\Obj\tic5234ioport.__cstat.et</file>
-      <file>$PROJ_DIR$\Stend\Obj\system_stm32l0xx.o</file>
-      <file>$PROJ_DIR$\..\Src\ObrRjZagr.c</file>
-      <file>$PROJ_DIR$\Stend\List\ObrRjRezka.lst</file>
-      <file>$PROJ_DIR$\Stend\Obj\dozator.o</file>
-      <file>$PROJ_DIR$\Stend\List\stm32l0xx_ll_utils.lst</file>
-      <file>$PROJ_DIR$\stm32l052xx_flash.icf</file>
-      <file>$PROJ_DIR$\Stend\Obj\SysConfig.pbi</file>
-      <file>$PROJ_DIR$\..\Inc\gif1_gif.h</file>
-      <file>$PROJ_DIR$\Stend\Obj\StrAvtomat.pbi</file>
-      <file>$PROJ_DIR$\Stend\Obj\crc.pbi</file>
-      <file>$PROJ_DIR$\Stend\Obj\WebSite.pbi</file>
-      <file>$PROJ_DIR$\Stend\Obj\wait.pbi</file>
-      <file>$PROJ_DIR$\Stend\Obj\SostPerif.__cstat.et</file>
-      <file>$PROJ_DIR$\Stend\Obj\ModbusMaster.o</file>
-      <file>$PROJ_DIR$\Stend\Obj\RjmCikl.pbi</file>
-      <file>$PROJ_DIR$\Stend\List\shd.lst</file>
-      <file>$PROJ_DIR$\Stend\Obj\tic5234ioport.o</file>
-      <file>$PROJ_DIR$\Stend\Obj\IndikModBus.pbi</file>
-      <file>$PROJ_DIR$\Stend\Obj\tic5234ioport.pbi</file>
-      <file>$PROJ_DIR$\Stend\Obj\IndikModBus.o</file>
-      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_dma.o</file>
-      <file>$PROJ_DIR$\Stend\Obj\ModbusMaster.__cstat.et</file>
-      <file>$PROJ_DIR$\Stend\List\crc.lst</file>
-      <file>$PROJ_DIR$\Stend\Obj\StrAvtomat.o</file>
-      <file>$PROJ_DIR$\..\Src\ObrRjVygr.c</file>
-      <file>$PROJ_DIR$\Stend\Obj\startup_stm32l052xx.o</file>
-      <file>$PROJ_DIR$\..\Drivers\CMSIS\Device\ST\STM32L0xx\Include\system_stm32l0xx.h</file>
-      <file>$PROJ_DIR$\Stend\List\modbus.lst</file>
-      <file>$PROJ_DIR$\Stend\Obj\uart1.o</file>
-      <file>$PROJ_DIR$\Stend\Obj\ObrRjZagr.__cstat.et</file>
-      <file>$PROJ_DIR$\Stend\Obj\zsg.__cstat.et</file>
-      <file>$PROJ_DIR$\Stend\Obj\WebSite.o</file>
-      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_tim.o</file>
-      <file>$PROJ_DIR$\Stend\List\Zaslonka.lst</file>
-      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_lpuart.o</file>
-      <file>$PROJ_DIR$\Stend\Obj\crc.o</file>
-      <file>$PROJ_DIR$\..\Inc\ObrRjSmesh.h</file>
-      <file>$PROJ_DIR$\Stend\Obj\ReadDatchik.pbi</file>
-      <file>$PROJ_DIR$\Stend\Obj\main.o</file>
-      <file>$PROJ_DIR$\Stend\List\stm32l0xx_it.lst</file>
-      <file>$PROJ_DIR$\Stend\List\ObrRjZagr.lst</file>
-      <file>$PROJ_DIR$\..\Src\SostPerif.c</file>
-      <file>$TOOLKIT_DIR$\lib\rt6M_tl.a</file>
-      <file>$PROJ_DIR$\Stend\List\stm32l0xx_ll_gpio.lst</file>
-      <file>$PROJ_DIR$\..\Drivers\CMSIS\Device\ST\STM32L0xx\Include\stm32l0xx.h</file>
-      <file>$PROJ_DIR$\Stend\Obj\wait_us.pbi</file>
-      <file>$PROJ_DIR$\Stend\Obj\ObrRjRyhl.o</file>
-      <file>$PROJ_DIR$\Stend\Obj\ObrRjVygr.o</file>
-      <file>$PROJ_DIR$\Stend\Obj\uart0.__cstat.et</file>
-      <file>$PROJ_DIR$\..\Inc\shetchik.h</file>
-      <file>$PROJ_DIR$\..\Inc\LowPower.h</file>
-      <file>$PROJ_DIR$\..\Inc\wait_ms.h</file>
-      <file>$PROJ_DIR$\Stend\Obj\zsg.pbi</file>
-      <file>$PROJ_DIR$\Stend\Obj\ObrRjRyhl.pbi</file>
-      <file>$PROJ_DIR$\Stend\List\ModBus2Prg.lst</file>
-      <file>$PROJ_DIR$\Stend\List\stm32l0xx_ll_usart.lst</file>
-      <file>$PROJ_DIR$\Stend\Obj\stm32l0xx_ll_lpuart.pbi</file>
-      <file>$PROJ_DIR$\Stend\Obj\ObrRjVygrSherst.__cstat.et</file>
-      <file>$PROJ_DIR$\Stend\List\ObrRjRyhl.lst</file>
-      <file>$PROJ_DIR$\Stend\List\Nagr.lst</file>
-      <file>$PROJ_DIR$\Stend\List\stm32l0xx_ll_rcc.lst</file>
-      <file>$PROJ_DIR$\Stend\Obj\ModBus2Prg.o</file>
-      <file>$PROJ_DIR$\Stend\Obj\Nagr.pbi</file>
-      <file>$PROJ_DIR$\Stend\List\ReadDatchik.lst</file>
-      <file>$PROJ_DIR$\..\Src\ReversKontakt.c</file>
-      <file>$PROJ_DIR$\Stend\Obj\SostPerif.pbi</file>
-      <file>$PROJ_DIR$\..\Inc\crc.h</file>
-      <file>$PROJ_DIR$\..\Src\crc.c</file>
-      <file>$PROJ_DIR$\Stend\Obj\uart1.pbi</file>
-      <file>$PROJ_DIR$\..\Inc\ObrRjVygr.h</file>
-      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
-      <file>$PROJ_DIR$\Stend\List\wait.lst</file>
-      <file>$PROJ_DIR$\Stend\Obj\ObrRjVygr.pbi</file>
-      <file>$PROJ_DIR$\..\Inc\gif3_gif.h</file>
-      <file>$PROJ_DIR$\Stend\Obj\ObrRjRyhl.__cstat.et</file>
-      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
-      <file>$PROJ_DIR$\Stend\Obj\ObrRjSmesh.__cstat.et</file>
-      <file>$PROJ_DIR$\Stend\Obj\shd.o</file>
-      <file>$PROJ_DIR$\Stend\Obj\wait_us.__cstat.et</file>
-      <file>$PROJ_DIR$\Stend\List\stm32l0xx_ll_exti.lst</file>
-      <file>$PROJ_DIR$\Stend\Obj\ToBase.pbi</file>
-      <file>$PROJ_DIR$\Stend\List\RjmCikl.lst</file>
-      <file>$PROJ_DIR$\Stend\Obj\RjmCikl.o</file>
-      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
-      <file>$PROJ_DIR$\Stend\Obj\shd.pbi</file>
-      <file>$PROJ_DIR$\..\Inc\StrAvtomat.h</file>
-      <file>$PROJ_DIR$\..\Drivers\CMSIS\Include\core_cmFunc.h</file>
-      <file>$PROJ_DIR$\Stend\List\ToBase.lst</file>
-      <file>$PROJ_DIR$\..\Src\ObrRjRezka.c</file>
     </outputs>
     <file>
       <name>$PROJ_DIR$\startup_stm32l052xx.s</name>
       <outputs>
         <tool>
           <name>AARM</name>
-          <file> 268</file>
+          <file> 114</file>
         </tool>
       </outputs>
     </file>
@@ -353,516 +353,34 @@
       <outputs>
         <tool>
           <name>ILINK</name>
-          <file> 227 186</file>
+          <file> 73 317</file>
         </tool>
       </outputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Src\ioport.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 192</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 32</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 240</file>
-        </tool>
-      </outputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Src\SaveRestore.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 82</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 55</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 182</file>
-        </tool>
-      </outputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Src\tic5234ioport.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 261</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 259</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 242</file>
-        </tool>
-      </outputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Src\uart1.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 311</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 271</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 236</file>
-        </tool>
-      </outputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Src\uart2.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 226</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 26</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 224</file>
-        </tool>
-      </outputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Drivers\STM32L0xx_HAL_Driver\Src\stm32l0xx_ll_adc.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 64</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 46 109</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 75</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 20 176 120 287 48 269 44 326 119 229 178 81 117 99 329 87 111 177</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 119 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 120</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Drivers\STM32L0xx_HAL_Driver\Src\stm32l0xx_ll_exti.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 74</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 322 203</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 163</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 117 99 176 111 124 287 48 269 329 20 87 177 229 178 44 326 81</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 124 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Drivers\STM32L0xx_HAL_Driver\Src\stm32l0xx_ll_usart.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 195</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 298 172</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 94</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 229 176 178 81 128 287 48 269 44 326 20 131 120 117 99 329 87 111 177</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 131 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 128 120</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Src\StrAvtomat.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 251</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 164 266</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 217</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 1 131 177 218 287 128 140 329 87 176 124 35 149 99 123 120 132 125 148 115 293 48 117 20 111 328 126 122 129 121 127 119 116 309 2 152 114 269 229 178 44 326 81</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 328 1 123 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 126 128 122 120 129 124 121 132 127 131 125 119 35 116 148 309 140 2 115 152 149 114 293 218</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Src\ObrRjSmesh.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 83</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 63 38</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 319</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 35 329 279 87 176 1 124 152 177 128 131 2 102 99 287 123 120 132 125 309 151 114 196 187 48 117 20 111 126 122 129 121 127 119 116 140 115 150 149 201 108 312 79 101 269 229 178 44 326 81</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 279 1 123 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 126 128 122 120 129 124 121 132 127 131 125 119 35 116 309 140 2 115 151 150 152 149 114 201 102 108 196 312 79 187 101</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Src\ModbusMaster.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 88</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 167 256</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 264</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 119 112 99 129 151 176 287 1 126 127 309 114 329 87 177 122 121 116 2 152 158 48 117 20 111 123 128 120 124 132 131 125 35 148 140 115 150 149 293 93 269 229 178 44 326 81</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 158 1 123 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 126 128 122 120 129 124 121 132 127 131 125 119 35 116 148 309 140 2 115 151 150 152 149 114 293 93 112</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Src\ObrRjVygrSherst.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 59</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 220 45</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 300</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 117 132 48 114 1 123 309 187 111 120 125 151 196 287 20 176 177 128 124 131 35 2 152 102 279 99 329 87 101 126 122 129 121 127 119 116 140 115 150 149 201 108 312 79 269 229 178 44 326 81</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 101 1 123 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 126 128 122 120 129 124 121 132 127 131 125 119 35 116 309 140 2 115 151 150 152 149 114 201 102 108 196 312 279 79 187</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Src\ToBase.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 323</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 330 202</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 176 119 177 199 20 129 152 287 126 127 309 102 48 117 111 122 121 35 2 114 105 99 329 87 1 200 123 128 120 124 132 131 125 130 116 140 115 149 201 108 269 229 178 44 326 81</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 200 1 123 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 126 128 122 120 129 124 121 132 127 131 125 119 130 35 116 309 140 2 115 152 149 114 201 102 108 105 199</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Src\WebSite.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 253</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 161 274</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 27</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 99 287 176 1 116 122 2 183 121 114 329 87 177 84 98 126 129 127 119 309 152 218 48 117 20 111 85 250 316 123 128 120 124 132 131 125 35 148 140 115 149 293 269 229 178 44 326 81</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 218 116 1 123 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 126 128 122 120 129 124 121 132 127 131 125 119 35 148 309 140 2 115 152 149 114 293 84 85 183 250 98 316</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Src\dozator.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 31</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 238 246</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 56</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 176 89 127 99 126 309 1 129 119 151 329 87 177 53 122 121 287 116 2 152 48 117 20 111 123 128 120 124 132 131 125 35 148 140 115 150 149 269 229 178 44 326 81</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 1 123 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 126 128 122 120 129 124 121 132 127 131 125 119 35 116 148 309 140 2 115 151 150 152 149 89 53</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Src\ReadDatchik.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 280</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 306 214</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 14</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 176 309 87 126 329 127 114 177 129 119 151 112 99 287 1 122 121 116 2 152 158 48 117 20 111 93 123 128 120 124 132 131 125 35 148 140 115 150 149 293 269 229 178 44 326 81</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 93 1 123 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 126 128 122 120 129 124 121 132 127 131 125 119 35 116 148 309 140 2 115 151 150 152 149 114 293 158 112</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Src\LowPower.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 30</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 69 39</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 213</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 122 2 111 287 158 48 117 1 121 116 152 20 176 177 126 129 127 119 309 151 114 112 99 329 87 293 123 128 120 124 132 131 125 35 148 140 115 150 149 93 269 229 178 44 326 81</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 293 1 123 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 126 128 122 120 129 124 121 132 127 131 125 119 35 116 148 309 140 2 115 151 150 152 149 114 158 93 112</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Src\RjSelect.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 231</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 193 60</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 160</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 44 115 120 1 125 200 176 20 123 132 116 201 287 128 124 131 130 140 149 108 269 229 178 326 81 126 122 129 121 127 119 35 309 2 152 114 102 105 199 48 117 99 329 87 111 177</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 108 1 123 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 126 128 122 120 129 124 121 132 127 131 125 119 130 35 116 309 140 2 115 152 149 114 201 102 105 200 199</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Src\zsg.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 295</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 50 184</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 273</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 127 13 126 140 229 326 287 129 119 150 196 269 178 81 1 122 121 116 115 149 102 279 176 44 20 123 128 120 124 132 131 125 35 309 2 151 152 114 201 108 312 79 48 117 99 329 87 111 177</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 13 1 123 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 126 128 122 120 129 124 121 132 127 131 125 119 35 116 309 140 2 115 151 150 152 149 114 201 102 108 196 312 279 79</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Src\RjmCikl.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 257</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 324 325</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 129 152 287 119 199 20 176 177 126 127 309 102 48 117 111 122 121 35 2 114 105 99 329 87 1 123 128 120 124 132 131 125 130 116 140 115 149 201 108 200 269 229 178 44 326 81</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 199 1 123 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 126 128 122 120 129 124 121 132 127 131 125 119 130 35 116 309 140 2 115 152 149 114 201 102 108 105 200</file>
-        </tool>
-      </inputs>
     </file>
     <file>
       <name>$PROJ_DIR$\..\Src\main.c</name>
       <outputs>
         <tool>
           <name>BICOMP</name>
-          <file> 52</file>
+          <file> 214</file>
         </tool>
         <tool>
           <name>ICCARM</name>
-          <file> 208 281</file>
+          <file> 54 127</file>
         </tool>
         <tool>
           <name>__cstat</name>
-          <file> 34</file>
+          <file> 197</file>
         </tool>
       </outputs>
       <inputs>
         <tool>
           <name>BICOMP</name>
-          <file> 177 128 287 130 329 87 176 132 114 99 123 129 116 48 117 20 111 1 126 120 121 127 125 35 115 2 269 229 178 44 326 81</file>
+          <file> 308 17 137 19 175 262 307 21 3 29 12 18 5 215 6 181 275 1 15 9 10 16 14 198 4 2 119 75 309 207 172 254</file>
         </tool>
         <tool>
           <name>ICCARM</name>
-          <file> 1 123 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 126 128 120 129 121 132 127 125 130 35 116 115 114 2</file>
+          <file> 1 12 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 15 17 9 18 10 21 16 14 19 198 5 4 3 2</file>
         </tool>
       </inputs>
     </file>
@@ -871,25 +389,25 @@
       <outputs>
         <tool>
           <name>BICOMP</name>
-          <file> 191</file>
+          <file> 322</file>
         </tool>
         <tool>
           <name>ICCARM</name>
-          <file> 270 54</file>
+          <file> 115 217</file>
         </tool>
         <tool>
           <name>__cstat</name>
-          <file> 235</file>
+          <file> 81</file>
         </tool>
       </outputs>
       <inputs>
         <tool>
           <name>BICOMP</name>
-          <file> 1 120 48 117 35 111 287 127 2 20 176 177 126 121 125 115 99 329 87 114 123 128 129 132 130 116 269 229 178 44 326 81</file>
+          <file> 1 9 215 6 198 275 137 16 2 181 307 308 15 10 14 4 29 175 262 3 12 17 18 21 19 5 119 75 309 207 172 254</file>
         </tool>
         <tool>
           <name>ICCARM</name>
-          <file> 114 1 123 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 126 128 120 129 121 132 127 125 130 35 116 115 2</file>
+          <file> 3 1 12 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 15 17 9 18 10 21 16 14 19 198 5 4 2</file>
         </tool>
       </inputs>
     </file>
@@ -898,25 +416,25 @@
       <outputs>
         <tool>
           <name>BICOMP</name>
-          <file> 216</file>
+          <file> 62</file>
         </tool>
         <tool>
           <name>ICCARM</name>
-          <file> 297 304</file>
+          <file> 143 150</file>
         </tool>
         <tool>
           <name>__cstat</name>
-          <file> 25</file>
+          <file> 188</file>
         </tool>
       </outputs>
       <inputs>
         <tool>
           <name>BICOMP</name>
-          <file> 20 1 125 176 126 44 287 121 115 120 127 35 2 269 229 178 326 81 114 123 128 129 132 130 116 48 117 99 329 87 111 177</file>
+          <file> 181 1 14 307 15 207 137 10 4 9 16 198 2 119 75 309 172 254 3 12 17 18 21 19 5 215 6 29 175 262 275 308</file>
         </tool>
         <tool>
           <name>ICCARM</name>
-          <file> 114 1 123 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 126 128 120 129 121 132 127 125 130 35 116 115 2</file>
+          <file> 3 1 12 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 15 17 9 18 10 21 16 14 19 198 5 4 2</file>
         </tool>
       </inputs>
     </file>
@@ -925,25 +443,25 @@
       <outputs>
         <tool>
           <name>BICOMP</name>
-          <file> 58</file>
+          <file> 221</file>
         </tool>
         <tool>
           <name>ICCARM</name>
-          <file> 282 198</file>
+          <file> 128 329</file>
         </tool>
         <tool>
           <name>__cstat</name>
-          <file> 66</file>
+          <file> 229</file>
         </tool>
       </outputs>
       <inputs>
         <tool>
           <name>BICOMP</name>
-          <file> 48 269 176 111 117 99 329 20 87 177 287 229 178 44 326 81 179</file>
+          <file> 215 119 307 275 6 29 175 181 262 308 137 75 309 207 172 254 310</file>
         </tool>
         <tool>
           <name>ICCARM</name>
-          <file> 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 179</file>
+          <file> 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 310</file>
         </tool>
       </inputs>
     </file>
@@ -952,65 +470,11 @@
       <outputs>
         <tool>
           <name>BICOMP</name>
-          <file> 249</file>
+          <file> 99</file>
         </tool>
         <tool>
           <name>ICCARM</name>
-          <file> 194 166</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 219</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 130 287 128 132 114 176 44 20 123 129 116 269 229 178 326 81 1 35 126 120 121 127 125 115 2 48 117 99 329 87 111 177</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 35 1 123 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 126 128 120 129 121 132 127 125 130 116 115 114 2</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Src\uart0.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 174</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 9 100</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 291</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 35 120 229 326 287 1 127 2 269 178 81 126 121 125 115 176 44 20 123 128 129 132 130 116 114 48 117 99 329 87 111 177</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 115 1 123 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 126 128 120 129 121 132 127 125 130 35 116 114 2</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Src\wait.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 254</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 314 15</file>
+          <file> 325 297</file>
         </tool>
         <tool>
           <name>__cstat</name>
@@ -1020,11 +484,65 @@
       <inputs>
         <tool>
           <name>BICOMP</name>
-          <file> 287 130 128 132 114 176 44 20 116 123 129 269 229 178 326 81 1 126 120 121 127 125 35 115 2 48 117 99 329 87 111 177</file>
+          <file> 19 137 17 21 3 307 207 181 12 18 5 119 75 309 172 254 1 198 15 9 10 16 14 4 2 215 6 29 175 262 275 308</file>
         </tool>
         <tool>
           <name>ICCARM</name>
-          <file> 1 123 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 126 128 120 129 121 132 127 125 130 35 116 115 114 2</file>
+          <file> 198 1 12 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 15 17 9 18 10 21 16 14 19 5 4 3 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\uart0.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 305</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 242 37</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 136</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 198 9 75 172 137 1 16 2 119 309 254 15 10 14 4 307 207 181 12 17 18 21 19 5 3 215 6 29 175 262 275 308</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 4 1 12 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 15 17 9 18 10 21 16 14 19 198 5 3 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\wait.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 100</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 160 178</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 228</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 137 19 17 21 3 307 207 181 5 12 18 119 75 309 172 254 1 15 9 10 16 14 198 4 2 215 6 29 175 262 275 308</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 1 12 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 15 17 9 18 10 21 16 14 19 198 5 4 3 2</file>
         </tool>
       </inputs>
     </file>
@@ -1033,25 +551,25 @@
       <outputs>
         <tool>
           <name>BICOMP</name>
-          <file> 24</file>
+          <file> 187</file>
         </tool>
         <tool>
           <name>ICCARM</name>
-          <file> 225 243</file>
+          <file> 71 89</file>
         </tool>
         <tool>
           <name>__cstat</name>
-          <file> 42</file>
+          <file> 205</file>
         </tool>
       </outputs>
       <inputs>
         <tool>
           <name>BICOMP</name>
-          <file> 48 269 176 111 117 99 329 20 87 177 287 229 178 44 326 81</file>
+          <file> 215 119 307 275 6 29 175 181 262 308 137 75 309 207 172 254</file>
         </tool>
         <tool>
           <name>ICCARM</name>
-          <file> 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269</file>
+          <file> 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119</file>
         </tool>
       </inputs>
     </file>
@@ -1060,406 +578,11 @@
       <outputs>
         <tool>
           <name>BICOMP</name>
-          <file> 19</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 51 263</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 103</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 48 269 20 176 120 287 44 326 123 117 99 229 178 81 329 87 111 177</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 123 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 120</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Drivers\STM32L0xx_HAL_Driver\Src\stm32l0xx_ll_gpio.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 106</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 286 204</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 230</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 20 117 176 120 287 99 44 326 125 48 269 229 178 81 329 87 111 177</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 125 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 120</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Drivers\STM32L0xx_HAL_Driver\Src\stm32l0xx_ll_lpuart.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 299</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 22 277</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 209</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 99 128 287 48 117 176 44 20 126 120 269 229 178 326 81 329 87 111 177</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 126 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 128 120</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Drivers\STM32L0xx_HAL_Driver\Src\stm32l0xx_ll_pwr.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 62</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 23 47</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 92</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 44 287 326 120 48 269 20 176 127 117 99 229 178 81 329 87 111 177</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 127 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 120</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Drivers\STM32L0xx_HAL_Driver\Src\stm32l0xx_ll_rcc.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
           <file> 180</file>
         </tool>
         <tool>
           <name>ICCARM</name>
-          <file> 303 232</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 11</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 99 176 111 128 287 117 329 20 87 177 48 269 229 178 44 326 81</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 128 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Drivers\STM32L0xx_HAL_Driver\Src\stm32l0xx_ll_tim.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 228</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 107 275</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 28</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 20 176 120 287 48 269 44 326 130 229 178 81 117 99 329 87 111 177</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 130 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 120</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Drivers\STM32L0xx_HAL_Driver\Src\stm32l0xx_ll_utils.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 73</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 247 185</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 49</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 20 117 99 87 287 129 329 176 177 132 111 128 127 48 269 229 178 44 326 81</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 128 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 132 129 127</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Src\AnalogIn.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 70</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 86</file>
-        </tool>
-      </outputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Src\FM25L256.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 210</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 80</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 221</file>
-        </tool>
-      </outputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Src\Indik7s.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 206</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 170</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 234</file>
-        </tool>
-      </outputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Src\IndikModBus.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 260</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 262</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 233</file>
-        </tool>
-      </outputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Src\shd.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 327</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 258 320</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 124 229 326 149 287 130 128 131 140 108 269 178 81 123 120 132 125 116 115 201 200 176 44 20 1 105 126 122 129 121 127 119 35 309 2 152 114 102 199 48 117 99 329 87 111 177</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 105 1 123 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 126 128 122 120 129 124 121 132 127 131 125 119 130 35 116 309 140 2 115 152 149 114 201 102 108 200 199</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Src\Nagr.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 305</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 302 212</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 36</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 293 1 131 128 140 124 35 150 176 44 20 162 123 120 132 125 148 115 149 93 269 229 178 326 81 287 112 126 122 129 121 127 119 116 309 2 151 152 114 158 48 117 99 329 87 111 177 313</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 112 1 123 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 126 128 122 120 129 124 121 132 127 131 125 119 35 116 148 309 140 2 115 151 150 152 149 114 293 158 93 162 313</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Src\Zaslonka.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 171</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 276 76</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 181</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 177 2 176 122 20 287 105 121 35 114 48 117 111 201 126 129 127 119 309 152 102 199 99 329 87 1 123 128 120 124 132 131 125 130 116 140 115 149 108 200 269 229 178 44 326 81</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 1 123 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 126 128 122 120 129 124 121 132 127 131 125 119 130 35 116 309 140 2 115 152 149 114 201 102 108 105 200 199</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Src\wait_ms.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 222</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 205</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 20 121 176 287 148 44 1 122 115 126 129 127 119 140 150 269 229 178 326 81 294 123 128 120 124 132 131 125 35 309 2 151 12 48 117 99 329 87 111 177</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Src\ObrRjRyhl.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 296</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 301 289</file>
-        </tool>
-        <tool>
-          <name>__cstat</name>
-          <file> 317</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 128 99 2 176 1 131 102 124 35 152 279 329 87 177 287 123 120 132 125 309 151 114 196 187 48 117 20 111 126 122 129 121 127 119 116 140 115 150 149 201 108 312 79 101 269 229 178 44 326 81</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 187 1 123 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 126 128 122 120 129 124 121 132 127 131 125 119 35 116 309 140 2 115 151 150 152 149 114 201 102 108 196 312 279 79 101</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\Stend\Exe\Stend.out</name>
-      <outputs>
-        <tool>
-          <name>ILINK</name>
-          <file> 186</file>
-        </tool>
-        <tool>
-          <name>OBJCOPY</name>
-          <file> 72</file>
-        </tool>
-      </outputs>
-      <inputs>
-        <tool>
-          <name>ILINK</name>
-          <file> 248 281 54 304 268 198 263 204 277 47 232 275 185 166 243 100 15 318 285 68 173</file>
-        </tool>
-      </inputs>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\Src\shetchik.c</name>
-      <outputs>
-        <tool>
-          <name>BICOMP</name>
-          <file> 41</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 110 18</file>
+          <file> 213 109</file>
         </tool>
         <tool>
           <name>__cstat</name>
@@ -1469,11 +592,292 @@
       <inputs>
         <tool>
           <name>BICOMP</name>
-          <file> 1 116 287 121 114 122 2 176 44 20 126 129 127 119 309 152 269 229 178 326 81 292 123 128 120 124 132 131 125 35 148 140 115 149 48 117 99 329 87 111 177</file>
+          <file> 215 119 181 307 9 137 207 172 12 6 29 75 309 254 175 262 275 308</file>
         </tool>
         <tool>
           <name>ICCARM</name>
-          <file> 292 1 123 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 126 128 122 120 129 124 121 132 127 131 125 119 35 12 148 309 140 2 115 152 149 114</file>
+          <file> 12 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Drivers\STM32L0xx_HAL_Driver\Src\stm32l0xx_ll_gpio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 40</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 132 50</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 76</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 181 6 307 9 137 29 207 172 14 215 119 75 309 254 175 262 275 308</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 14 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Drivers\STM32L0xx_HAL_Driver\Src\stm32l0xx_ll_lpuart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 145</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 185 123</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 55</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 29 17 137 215 6 307 207 181 15 9 119 75 309 172 254 175 262 275 308</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 15 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 17 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Drivers\STM32L0xx_HAL_Driver\Src\stm32l0xx_ll_pwr.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 225</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 186 210</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 268</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 207 137 172 9 215 119 181 307 16 6 29 75 309 254 175 262 275 308</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 16 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Drivers\STM32L0xx_HAL_Driver\Src\stm32l0xx_ll_rcc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 311</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 149 78</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 240</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 29 307 275 17 137 6 175 181 262 308 215 119 75 309 207 172 254</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 17 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Drivers\STM32L0xx_HAL_Driver\Src\stm32l0xx_ll_tim.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 74</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 42 121</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 191</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 181 307 9 137 215 119 207 172 19 75 309 254 6 29 175 262 275 308</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 19 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Drivers\STM32L0xx_HAL_Driver\Src\stm32l0xx_ll_utils.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 236</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93 316</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 211</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 181 6 29 262 137 18 175 307 308 21 275 17 16 215 119 75 309 207 172 254</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 17 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 21 18 16</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\Zaslonka.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 302</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 122 250</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 312</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 308 2 307 11 181 137 39 10 198 3 215 6 275 47 15 18 16 8 155 283 44 330 29 175 262 1 12 17 9 13 21 20 14 19 5 278 4 279 45 331 119 75 309 207 172 254</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 1 12 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 15 17 11 9 18 13 10 21 16 20 14 8 19 198 5 155 278 2 4 283 279 3 47 44 45 39 331 330</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\wait_ms.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 51</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 181 10 307 137 280 207 1 11 4 15 18 16 8 278 281 119 75 309 172 254 140 12 17 9 13 21 20 14 198 155 2 282 244 215 6 29 175 262 275 308</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\ObrRjRyhl.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 142</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 147 134</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 163</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17 29 2 307 1 20 44 13 198 283 125 175 262 308 137 12 9 21 14 155 282 3 327 318 215 6 181 275 15 11 18 10 16 8 5 278 4 281 279 47 45 158 255 38 119 75 309 207 172 254</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 318 1 12 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 15 17 11 9 18 13 10 21 16 20 14 8 198 5 155 278 2 4 282 281 283 279 3 47 44 45 327 158 125 255 38</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Stend\Exe\Stend.out</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 317</file>
+        </tool>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 235</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 98 127 217 150 114 329 109 50 123 210 78 121 316 297 89 37 178 164 131 231 304</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\shetchik.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 204</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 274 179</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 206</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 1 5 137 10 3 11 2 307 207 181 15 18 16 8 155 283 119 75 309 172 254 138 12 17 9 13 21 20 14 198 280 278 4 279 215 6 29 175 262 275 308</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 138 1 12 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 15 17 11 9 18 13 10 21 16 20 14 8 198 244 280 155 278 2 4 283 279 3</file>
         </tool>
       </inputs>
     </file>
@@ -1482,25 +886,25 @@
       <outputs>
         <tool>
           <name>BICOMP</name>
-          <file> 288</file>
+          <file> 133</file>
         </tool>
         <tool>
           <name>ICCARM</name>
-          <file> 189 237</file>
+          <file> 320 83</file>
         </tool>
         <tool>
           <name>__cstat</name>
-          <file> 321</file>
+          <file> 167</file>
         </tool>
       </outputs>
       <inputs>
         <tool>
           <name>BICOMP</name>
-          <file> 131 128 140 229 326 287 1 124 35 149 269 178 81 12 123 120 132 125 148 115 292 176 44 20 126 122 129 121 127 119 309 2 152 114 48 117 99 329 87 111 177</file>
+          <file> 20 17 278 75 172 137 1 13 198 279 119 309 254 244 12 9 21 14 280 4 138 307 207 181 15 11 18 10 16 8 155 2 283 3 215 6 29 175 262 275 308</file>
         </tool>
         <tool>
           <name>ICCARM</name>
-          <file> 1 123 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 126 128 122 120 129 124 121 132 127 131 125 119 35 12 148 309 140 2 115 152 149 114 292</file>
+          <file> 1 12 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 15 17 11 9 18 13 10 21 16 20 14 8 198 244 280 155 278 2 4 283 279 3 138</file>
         </tool>
       </inputs>
     </file>
@@ -1509,25 +913,25 @@
       <outputs>
         <tool>
           <name>BICOMP</name>
-          <file> 113</file>
+          <file> 277</file>
         </tool>
         <tool>
           <name>ICCARM</name>
-          <file> 283 104</file>
+          <file> 129 41</file>
         </tool>
         <tool>
           <name>__cstat</name>
-          <file> 272</file>
+          <file> 117</file>
         </tool>
       </outputs>
       <inputs>
         <tool>
           <name>BICOMP</name>
-          <file> 177 152 124 1 35 279 329 87 176 128 131 2 102 99 287 123 120 132 125 309 151 114 196 187 48 117 20 111 126 122 129 121 127 119 116 140 115 150 149 201 108 312 79 101 269 229 178 44 326 81</file>
+          <file> 308 283 13 1 198 125 175 262 307 17 20 2 44 29 137 12 9 21 14 155 282 3 327 318 215 6 181 275 15 11 18 10 16 8 5 278 4 281 279 47 45 158 255 38 119 75 309 207 172 254</file>
         </tool>
         <tool>
           <name>ICCARM</name>
-          <file> 196 1 123 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 126 128 122 120 129 124 121 132 127 131 125 119 35 116 309 140 2 115 151 150 152 149 114 201 102 108 312 279 79 187 101</file>
+          <file> 327 1 12 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 15 17 11 9 18 13 10 21 16 20 14 8 198 5 155 278 2 4 282 281 283 279 3 47 44 45 158 125 255 318 38</file>
         </tool>
       </inputs>
     </file>
@@ -1536,25 +940,25 @@
       <outputs>
         <tool>
           <name>BICOMP</name>
-          <file> 315</file>
+          <file> 161</file>
         </tool>
         <tool>
           <name>ICCARM</name>
-          <file> 91 290</file>
+          <file> 270 135</file>
         </tool>
         <tool>
           <name>__cstat</name>
-          <file> 159</file>
+          <file> 290</file>
         </tool>
       </outputs>
       <inputs>
         <tool>
           <name>BICOMP</name>
-          <file> 177 152 124 1 35 279 329 87 176 128 131 2 102 99 287 123 120 132 125 309 151 114 196 187 48 117 20 111 312 126 122 129 121 127 119 116 140 115 150 149 201 108 79 101 269 229 178 44 326 81</file>
+          <file> 308 283 13 1 198 125 175 262 307 17 20 2 44 29 137 12 9 21 14 155 282 3 327 318 215 6 181 275 158 15 11 18 10 16 8 5 278 4 281 279 47 45 255 38 119 75 309 207 172 254</file>
         </tool>
         <tool>
           <name>ICCARM</name>
-          <file> 312 1 123 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 126 128 122 120 129 124 121 132 127 131 125 119 35 116 309 140 2 115 151 150 152 149 114 201 102 108 196 279 79 187 101</file>
+          <file> 158 1 12 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 15 17 11 9 18 13 10 21 16 20 14 8 198 5 155 278 2 4 282 281 283 279 3 47 44 45 327 125 255 318 38</file>
         </tool>
       </inputs>
     </file>
@@ -1563,25 +967,25 @@
       <outputs>
         <tool>
           <name>BICOMP</name>
-          <file> 308</file>
+          <file> 154</file>
         </tool>
         <tool>
           <name>ICCARM</name>
-          <file> 188 29</file>
+          <file> 319 192</file>
         </tool>
         <tool>
           <name>__cstat</name>
-          <file> 255</file>
+          <file> 101</file>
         </tool>
       </outputs>
       <inputs>
         <tool>
           <name>BICOMP</name>
-          <file> 124 229 326 149 287 130 128 131 140 108 269 178 81 123 120 132 125 116 115 201 200 176 44 20 1 102 126 122 129 121 127 119 35 309 2 152 114 105 199 48 117 99 329 87 111 177</file>
+          <file> 13 75 172 279 137 19 17 20 278 45 119 309 254 12 9 21 14 5 4 47 331 307 207 181 1 44 15 11 18 10 16 8 198 155 2 283 3 39 330 215 6 29 175 262 275 308</file>
         </tool>
         <tool>
           <name>ICCARM</name>
-          <file> 102 1 123 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 126 128 122 120 129 124 121 132 127 131 125 119 130 35 116 309 140 2 115 152 149 114 201 108 105 200 199</file>
+          <file> 44 1 12 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 15 17 11 9 18 13 10 21 16 20 14 8 19 198 5 155 278 2 4 283 279 3 47 45 39 331 330</file>
         </tool>
       </inputs>
     </file>
@@ -1590,25 +994,25 @@
       <outputs>
         <tool>
           <name>BICOMP</name>
-          <file> 40</file>
+          <file> 203</file>
         </tool>
         <tool>
           <name>ICCARM</name>
-          <file> 165 169</file>
+          <file> 296 300</file>
         </tool>
         <tool>
           <name>__cstat</name>
-          <file> 215</file>
+          <file> 61</file>
         </tool>
       </outputs>
       <inputs>
         <tool>
           <name>BICOMP</name>
-          <file> 176 177 287 20 122 2 1 121 116 152 48 117 111 89 126 129 127 119 309 151 99 329 87 123 128 120 124 132 131 125 35 148 140 115 150 149 53 269 229 178 44 326 81</file>
+          <file> 307 308 137 181 11 2 1 10 5 283 215 6 275 263 15 18 16 8 155 282 29 175 262 12 17 9 13 21 20 14 198 280 278 4 281 279 216 119 75 309 207 172 254</file>
         </tool>
         <tool>
           <name>ICCARM</name>
-          <file> 1 123 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 126 128 122 120 129 124 121 132 127 131 125 119 35 116 148 309 140 2 115 151 150 152 149 89 53</file>
+          <file> 1 12 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 15 17 11 9 18 13 10 21 16 20 14 8 198 5 280 155 278 2 4 282 281 283 279 263 216</file>
         </tool>
       </inputs>
     </file>
@@ -1617,25 +1021,25 @@
       <outputs>
         <tool>
           <name>BICOMP</name>
-          <file> 252</file>
+          <file> 96</file>
         </tool>
         <tool>
           <name>ICCARM</name>
-          <file> 265 278</file>
+          <file> 111 124</file>
         </tool>
         <tool>
           <name>__cstat</name>
-          <file> 168</file>
+          <file> 299</file>
         </tool>
       </outputs>
       <inputs>
         <tool>
           <name>BICOMP</name>
-          <file> 309</file>
+          <file> 155</file>
         </tool>
         <tool>
           <name>ICCARM</name>
-          <file> 309</file>
+          <file> 155</file>
         </tool>
       </inputs>
     </file>
@@ -1644,34 +1048,630 @@
       <outputs>
         <tool>
           <name>BICOMP</name>
-          <file> 10</file>
+          <file> 241</file>
         </tool>
         <tool>
           <name>ICCARM</name>
-          <file> 245 157</file>
+          <file> 91 288</file>
         </tool>
         <tool>
           <name>__cstat</name>
-          <file> 175</file>
+          <file> 306</file>
         </tool>
       </outputs>
       <inputs>
         <tool>
           <name>BICOMP</name>
-          <file> 309 123 187 111 1 132 114 48 117 120 125 151 196 287 20 176 177 128 124 131 35 2 152 102 279 99 329 87 79 126 122 129 121 127 119 116 140 115 150 149 201 108 312 101 269 229 178 44 326 81</file>
+          <file> 155 12 318 275 1 21 3 215 6 9 14 282 327 137 181 307 308 17 13 20 198 2 283 44 125 29 175 262 255 15 11 18 10 16 8 5 278 4 281 279 47 45 158 38 119 75 309 207 172 254</file>
         </tool>
         <tool>
           <name>ICCARM</name>
-          <file> 79 1 123 287 48 117 99 176 20 178 87 111 44 326 229 177 81 329 269 126 128 122 120 129 124 121 132 127 131 125 119 35 116 309 140 2 115 151 150 152 149 114 201 102 108 196 312 279 187 101</file>
+          <file> 255 1 12 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 15 17 11 9 18 13 10 21 16 20 14 8 198 5 155 278 2 4 282 281 283 279 3 47 44 45 327 158 125 318 38</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\StrAvtomat.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 95</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 295 112</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 63</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 1 20 308 64 137 17 278 175 262 307 13 198 279 29 12 9 21 14 280 4 139 215 6 181 275 174 15 11 18 10 16 8 5 155 2 283 3 119 75 309 207 172 254</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 174 1 12 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 15 17 11 9 18 13 10 21 16 20 14 8 198 5 280 155 278 2 4 283 279 3 139 64</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Drivers\STM32L0xx_HAL_Driver\Src\stm32l0xx_ll_exti.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 249</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 168 49</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 294</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6 29 307 275 13 137 215 119 175 181 262 308 75 309 207 172 254</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 13 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Drivers\STM32L0xx_HAL_Driver\Src\stm32l0xx_ll_usart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 326</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 144 303</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 267</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 75 307 309 254 17 137 215 119 207 172 181 20 9 6 29 175 262 275 308</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 20 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 17 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\ObrRjSmesh.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 256</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 226 201</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 165</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 198 175 125 262 307 1 13 283 308 17 20 2 44 29 137 12 9 21 14 155 282 3 327 318 215 6 181 275 15 11 18 10 16 8 5 278 4 281 279 47 45 158 255 38 119 75 309 207 172 254</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 125 1 12 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 15 17 11 9 18 13 10 21 16 20 14 8 198 5 155 278 2 4 282 281 283 279 3 47 44 45 327 158 255 318 38</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\ModbusMaster.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 264</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 298 102</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 110</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 276 29 18 282 307 137 1 15 16 155 3 175 262 308 11 10 5 2 283 289 215 6 181 275 12 17 9 13 21 20 14 198 280 278 4 281 279 139 265 119 75 309 207 172 254</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 289 1 12 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 15 17 11 9 18 13 10 21 16 20 14 8 198 5 280 155 278 2 4 282 281 283 279 3 139 265 276</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\ObrRjVygrSherst.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 222</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 66 208</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 146</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6 21 215 3 1 12 155 318 275 9 14 282 327 137 181 307 308 17 13 20 198 2 283 44 125 29 175 262 38 15 11 18 10 16 8 5 278 4 281 279 47 45 158 255 119 75 309 207 172 254</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 38 1 12 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 15 17 11 9 18 13 10 21 16 20 14 8 198 5 155 278 2 4 282 281 283 279 3 47 44 45 327 158 125 255 318</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\ToBase.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 169</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 176 48</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 307 8 308 330 181 18 283 137 15 16 155 44 215 6 275 11 10 198 2 3 39 29 175 262 1 331 12 17 9 13 21 20 14 19 5 278 4 279 47 45 119 75 309 207 172 254</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 331 1 12 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 15 17 11 9 18 13 10 21 16 20 14 8 19 198 5 155 278 2 4 283 279 3 47 44 45 39 330</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\WebSite.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 97</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 292 120</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 190</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 29 137 307 1 5 11 2 314 10 3 175 262 308 259 273 15 18 16 8 155 283 64 215 6 181 275 260 94 162 12 17 9 13 21 20 14 198 280 278 4 279 139 119 75 309 207 172 254</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 64 5 1 12 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 15 17 11 9 18 13 10 21 16 20 14 8 198 280 155 278 2 4 283 279 3 139 259 260 314 94 273 162</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\ioport.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 323</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 195</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 86</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\tic5234ioport.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 107</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 105</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 88</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\SaveRestore.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 253</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 218</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 313</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Drivers\STM32L0xx_HAL_Driver\Src\stm32l0xx_ll_adc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 227</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 209 46</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 251</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 181 307 9 137 215 119 207 172 8 75 309 254 6 29 175 262 275 308</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 8 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\uart2.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 72</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 189</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 70</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\uart1.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 157</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 116</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 82</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\ReadDatchik.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 126</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 152 60</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 248</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 307 155 262 15 175 16 3 308 18 8 282 276 29 137 1 11 10 5 2 283 289 215 6 181 275 265 12 17 9 13 21 20 14 198 280 278 4 281 279 139 119 75 309 207 172 254</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 265 1 12 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 15 17 11 9 18 13 10 21 16 20 14 8 198 5 280 155 278 2 4 282 281 283 279 3 139 289 276</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\dozator.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 194</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 84 92</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 219</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 307 263 16 29 15 155 1 18 8 282 175 262 308 216 11 10 137 5 2 283 215 6 181 275 12 17 9 13 21 20 14 198 280 278 4 281 279 119 75 309 207 172 254</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 1 12 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 15 17 11 9 18 13 10 21 16 20 14 8 198 5 280 155 278 2 4 282 281 283 279 263 216</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\RjSelect.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 77</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 324 223</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 291</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 207 4 9 1 14 331 307 181 12 21 5 47 137 17 13 20 19 278 279 45 119 75 309 172 254 15 11 18 10 16 8 198 155 2 283 3 44 39 330 215 6 29 175 262 275 308</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 45 1 12 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 15 17 11 9 18 13 10 21 16 20 14 8 19 198 5 155 278 2 4 283 279 3 47 44 39 331 330</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\zsg.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 141</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 212 315</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 118</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16 247 15 278 75 172 137 18 8 281 327 119 309 254 1 11 10 5 4 279 44 125 307 207 181 12 17 9 13 21 20 14 198 155 2 282 283 3 47 45 158 255 215 6 29 175 262 275 308</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 247 1 12 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 15 17 11 9 18 13 10 21 16 20 14 8 198 5 155 278 2 4 282 281 283 279 3 47 44 45 327 158 125 255</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\LowPower.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 193</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 232 202</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 59</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11 2 275 137 289 215 6 1 10 5 283 181 307 308 15 18 16 8 155 282 3 276 29 175 262 139 12 17 9 13 21 20 14 198 280 278 4 281 279 265 119 75 309 207 172 254</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 139 1 12 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 15 17 11 9 18 13 10 21 16 20 14 8 198 5 280 155 278 2 4 282 281 283 279 3 289 265 276</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\RjmCikl.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 103</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 170 171</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18 283 137 8 330 181 307 308 15 16 155 44 215 6 275 11 10 198 2 3 39 29 175 262 1 12 17 9 13 21 20 14 19 5 278 4 279 47 45 331 119 75 309 207 172 254</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 330 1 12 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 15 17 11 9 18 13 10 21 16 20 14 8 19 198 5 155 278 2 4 283 279 3 47 44 45 39 331</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\AnalogIn.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 233</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 261</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\FM25L256.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 56</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 252</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 67</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\Indik7s.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 52</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 301</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 80</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\IndikModBus.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 106</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 108</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 79</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\shd.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 173</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 104 166</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13 75 172 279 137 19 17 20 278 45 119 309 254 12 9 21 14 5 4 47 331 307 207 181 1 39 15 11 18 10 16 8 198 155 2 283 3 44 330 215 6 29 175 262 275 308</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 39 1 12 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 15 17 11 9 18 13 10 21 16 20 14 8 19 198 5 155 278 2 4 283 279 3 47 44 45 331 330</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\Nagr.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 151</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 148 58</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 199</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 139 1 20 17 278 13 198 281 307 207 181 293 12 9 21 14 280 4 279 265 119 75 309 172 254 137 276 15 11 18 10 16 8 5 155 2 282 283 3 289 215 6 29 175 262 275 308 159</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 276 1 12 137 215 6 29 307 181 309 262 275 207 172 75 308 254 175 119 15 17 11 9 18 13 10 21 16 20 14 8 198 5 280 155 278 2 4 282 281 283 279 3 139 289 265 293 159</file>
         </tool>
       </inputs>
     </file>
     <forcedrebuild>
-      <name>$PROJ_DIR$\..\Src\FM25L256.c</name>
+      <name>$PROJ_DIR$\..\Src\crc.c</name>
       <tool>C-STAT</tool>
     </forcedrebuild>
     <forcedrebuild>
-      <name>$PROJ_DIR$\..\Src\crc.c</name>
+      <name>$PROJ_DIR$\..\Src\FM25L256.c</name>
       <tool>C-STAT</tool>
     </forcedrebuild>
   </configuration>

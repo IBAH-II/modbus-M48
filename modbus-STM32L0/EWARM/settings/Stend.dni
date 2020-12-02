@@ -16,7 +16,7 @@ stlinkResetStrategy=2
 stlinkserialNo=11392267
 stlinkfoundProbes=
 [DebugChecksum]
-Checksum=-1332564260
+Checksum=-431249853
 [Exceptions]
 StopOnUncaught=_ 0
 StopOnThrow=_ 0
