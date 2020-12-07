@@ -61,6 +61,13 @@ static unsigned char TimerReStartNew(Timer_t* t, unsigned long pt)
     }
   return 0;
   }
+
+//Получить значение таймера
+static unsigned long GetTimer(Timer_t* t)
+  {
+  return (Clock()-(t->t0));
+  }
+
 #endif
 
 #endif

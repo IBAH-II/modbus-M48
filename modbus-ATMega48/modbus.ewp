@@ -951,7 +951,7 @@
         </option>
         <option>
           <name>CCListCMnemonics</name>
-          <state>1</state>
+          <state>0</state>
         </option>
         <option>
           <name>CCListCMessages</name>
@@ -1369,11 +1369,11 @@
         </option>
         <option>
           <name>SegmentMap</name>
-          <state>1</state>
+          <state>0</state>
         </option>
         <option>
           <name>ListSymbols</name>
-          <state>1</state>
+          <state>0</state>
         </option>
         <option>
           <name>PageLengthCheck</name>
@@ -1489,11 +1489,11 @@
         </option>
         <option>
           <name>IncludeSuppressed</name>
-          <state>1</state>
+          <state>0</state>
         </option>
         <option>
           <name>ModuleSummary</name>
-          <state>1</state>
+          <state>0</state>
         </option>
       </data>
     </settings>

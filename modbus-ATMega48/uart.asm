@@ -231,6 +231,7 @@ InkeyUart1:
 ENDMOD
 
 MODULE __uartputstrf
+RSEG CODE
 EXTERN PutUart
 //void putstrf(unsigned char __flash* a);
 PUBLIC putstrf
@@ -252,6 +253,7 @@ putstrfend:
 ENDMOD
 
 MODULE __uartputhex8
+RSEG CODE
 EXTERN PutUart
 //void puthex8(unsigned long a);
 PUBLIC	puthex8
@@ -287,6 +289,7 @@ dt:
 ENDMOD
 
 MODULE __uartputhex16
+RSEG CODE
 EXTERN puthex8
 //void puthex16(unsigned long a);
 PUBLIC	puthex16
@@ -300,6 +303,7 @@ puthex16:
 ENDMOD
 
 MODULE __uartputhex32
+RSEG CODE
 EXTERN puthex8
 //void puthex32(unsigned long a);
 PUBLIC	puthex32

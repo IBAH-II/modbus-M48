@@ -20,8 +20,7 @@ void main(void)
   //Timer1 init
   TCCR1A=0;
   TCCR1B=1;
-  
-  
+   
   while(!0)
     {
     TCNT1=0;
